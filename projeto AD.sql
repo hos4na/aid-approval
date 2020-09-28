@@ -1,4 +1,3 @@
--- Autor: Hosana Barcelos
 
 CREATE TABLE cidadao(
 ID SERIAL PRIMARY KEY,
